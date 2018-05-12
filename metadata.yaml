@@ -1,10 +1,16 @@
 _repo: The-Forlorn-Hope-A-Tale-of-Old-Chelsea_50078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hall, Mrs S. C.
     gutenberg_agent_id: '45697'
     url: http://www.gutenberg.org/2009/agents/45697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50078#The-Forlorn-Hope-A-Tale-of-Old-Chelsea
 gutenberg_issued: '2015-09-29'
 gutenberg_type: Text
 identifiers:
